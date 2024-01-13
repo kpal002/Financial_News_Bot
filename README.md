@@ -1,6 +1,8 @@
 # Financial_News_Bot
 A chatbot using GPT-4 to to help financial analysts leverage LLMs to speed up their research using the latest news.
 
+**Live Application**: A direct link to the hosted application on Hugging Face Spaces is provided for easy access. [Hugging Face Spaces](https://huggingface.co/spaces/kpal002/FinWise_Explorer)
+
 ## Features
 - **Query Processing**: Enter a question related to financial markets, stocks, global economy, and more, and receive detailed, relevant information.
 - **News Aggregation**: Aggregates and analyzes data from multiple financial news sources.
