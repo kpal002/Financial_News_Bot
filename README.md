@@ -3,6 +3,10 @@ A chatbot using GPT-4 to to help financial analysts leverage LLMs to speed up th
 
 **Live Application**: A direct link to the hosted application on Hugging Face Spaces is provided for easy access. [Hugging Face Spaces](https://huggingface.co/spaces/kpal002/FinWise_Explorer)
 
+<img width="1266" alt="Screenshot 2024-01-13 at 9 55 08 AM" src="https://github.com/kpal002/Financial_News_Bot/assets/49849134/eddd1e8c-fbf5-44b0-80e2-fc0b2f844f56">
+
+
+
 ## Data Sources
 The information base for each query in FinWise Explorer is created by aggregating data from various reputable financial news RSS feeds. The application uses `feedparser`, a robust Python library, to parse and extract data from the following two feeds:
 
